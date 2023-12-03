@@ -1,0 +1,22 @@
+button{
+    width: 150px;
+    height: 40px;
+    margin-top: 10%;
+    border-radius: 50%;
+    border: 10px;
+    border-color: rgb(16, 15, 15);
+    font-size: 15px;
+    /* font-weight: bold; */
+}
+
+button:hover{
+    background-color: rgb(162, 222, 166);
+}
+
+.counter{
+    margin-right: 40px;
+}
+
+.tsButton:hover{
+    background-color: rgb(163, 163, 212);
+}
