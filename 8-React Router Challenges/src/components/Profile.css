@@ -1,0 +1,21 @@
+.profile-container{
+    background-color: rgba(128, 128, 128, 0.164);
+    padding: 100px 160px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+
+.back-login{
+    text-decoration: none;
+    color: black;
+    background-color: aliceblue;
+    padding: 7px;
+    border-radius: 20px;
+}
+
+.back-login:hover{
+    background-color: rgb(51, 49, 49);
+    color: rgb(223, 219, 219);
+}

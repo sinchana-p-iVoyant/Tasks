@@ -1,0 +1,15 @@
+.login-link{
+    color: white;
+    text-align: center;
+    background-color: rgb(15, 11, 11);
+    text-decoration: none;
+    padding: 9px;
+    margin: auto;
+    border-radius: 20px;
+    /* width: max-content; */
+}
+
+.login-link:hover{
+    background-color: rgb(186, 177, 177);
+    color: rgb(57, 56, 56);
+}
