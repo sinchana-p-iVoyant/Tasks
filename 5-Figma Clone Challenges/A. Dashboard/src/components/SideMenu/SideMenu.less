@@ -1,0 +1,150 @@
+@deep-blue: #1F263E;
+@blue: #50B8E4;
+@black: #303750;
+@white: #FFFFFF;
+
+@dark-blue: #1F263D;
+@grey-blue: #30374F;
+@blue: #50B8E4;
+@cream: #D7D7D7;
+@pink-red: #F46B88;
+@cream-white: #F7F8FA;
+@white: #FFFFFF;
+
+
+
+:where(.css-dev-only-do-not-override-1adbn6x).ant-layout .ant-layout-sider-children {
+  // height: 100%;
+  // width: 100%;
+  // margin-top: -0.1px;
+  // padding-top: 0.1px;
+  // background-color: pink;
+  background-color: @deep-blue;
+}
+
+.sidemenu-style() {
+  // background-color:#001529;
+  background-color:@deep-blue;
+
+  color: @white;
+  // font-family: Oxygen;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.menu-heading() {
+  font-size: 18px;
+  line-height: 18px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 0.5px;
+  padding-top: 2px;
+  text-align: left;
+  margin-left: 28px;
+}
+
+.sider-container {
+  // max-width: 218px;
+  // max-height: 1024px;
+
+  max-width: 100%;
+  max-height: 100%;
+
+  color: white;
+  max-width: 218px;
+  // max-height: 1024px;
+  // max-width: 100vw;
+  max-height: 100vh;
+  background-color: @deep-blue;
+}
+
+.logo-container{
+  display: flex;
+  padding:  10px;
+  align-items: center;
+  justify-content: center;
+  background-color: @deep-blue;
+}
+
+.logout-menu {
+  background-color: @deep-blue;
+  color: @white;
+}
+
+.logo-container h3{
+  margin: 10px;
+  font-size:16px;
+  font-weight: lighter;
+  letter-spacing: 3px;
+}
+  
+.divider {
+  margin: 0;
+  width: 900px;
+  background-color: rgb(64, 59, 59);
+  width: max-content;
+}
+  
+.quick-access-container {
+  // padding-top: 0px;
+  background-color: @deep-blue;
+}
+
+.quick-access-container h2,
+.service-container h2,
+.account-container h2
+{
+  // background-color: @deep-blue;
+  .menu-heading();
+}
+
+
+
+.quick-access-menu {
+  .sidemenu-style;
+  // background-color:#001529;
+  // color: @white;
+  // // font-family: Oxygen;
+  // font-size: 16px;
+  // font-weight: lighter;
+}
+
+.quick-access-menu:hover{
+  color:@white;
+  // font-weight: bold;
+}
+
+.service-container,
+.account-container{
+  // padding-top: 10px;
+  background-color: @deep-blue;
+}
+
+.account-container {
+  margin-top: 0;
+  padding-top: 10px;
+}
+
+.service-menu {
+  .sidemenu-style();
+}
+
+.quick-access-menu-div,
+.service-menu-div,
+.account-menu-div {
+  text-align: left;
+}
+
+.account-menu {
+  .sidemenu-style();
+}
+
+.logout-container {
+  /* display: flex; */
+  // margin-top: 60px;
+  // margin-top: 60px;
+  margin-bottom: 10px;
+}
+
+.logout-menu {
+  padding-top: 100px;
+}

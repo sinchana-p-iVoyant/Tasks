@@ -1,0 +1,76 @@
+{
+  "cryptos": [
+    {
+      "id": 1,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "¥ 721,882",
+      "growth": "-4.66",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 2,
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "currency": "¥ 22,370",
+      "growth": "+0.45",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 3,
+      "symbol": "XEM",
+      "name": "NEM",
+      "currency": "¥ 10.604",
+      "growth": "-1.07",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 4,
+      "symbol": "XRP",
+      "name": "Ripple",
+      "currency": "¥ 50.839",
+      "growth": "+0.66",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 5,
+      "symbol": "ETC",
+      "name": "Bitcoin",
+      "currency": "1,660.7",
+      "growth": "-0.09",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 6,
+      "symbol": "XRP",
+      "name": "Bitcoin",
+      "currency": "50.839",
+      "growth": "+0.66",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 7,
+      "symbol": "FCT",
+      "name": "Bitcoin",
+      "currency": "534.68",
+      "growth": "+8.47",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 8,
+      "symbol": "LSK",
+      "name": "Bitcoin",
+      "currency": "321.14",
+      "growth": "-0.47",
+      "logo": "FaBitcoin"
+    },
+    {
+      "id": 9,
+      "symbol": "XEM",
+      "name": "Bitcoin",
+      "currency": "10.604",
+      "growth": "-1.07",
+      "logo": "FaBitcoin"
+    }
+]
+}    

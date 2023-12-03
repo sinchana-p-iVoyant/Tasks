@@ -1,0 +1,13 @@
+.content {
+  overflow: auto;
+}
+.right-container {
+  padding: 10px 30px;
+}
+.bottom-section-container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0px;
+  justify-content: space-between;
+  align-items: space-between;
+}
