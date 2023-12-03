@@ -1,0 +1,47 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: left; */
+    padding: 5% 30%;
+    background-color: antiquewhite;
+}
+
+.one-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+}
+
+label{
+    /* background-color: rgb(232, 170, 89); */
+    text-align: left;
+    min-width: 120px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+input{
+    text-align: center;
+    margin-left: 10px;
+    min-width: 190px;
+}
+
+button{
+    width: 170px;
+    height: 30px;
+    margin-top: 5px;
+    
+}
+
+/* Display Data */
+
+.details{
+    background-color: rgba(219, 229, 241, 0.732);
+    width: 270px;
+    padding: 50px 170px;
+    
+}
